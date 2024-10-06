@@ -20,5 +20,5 @@ Adjustments:
 If you want to change any text or add more questions, simply edit the index.html file.
 To adjust styles, modify the styles.css file as needed.
 # Additional Notes
-Make sure the font "Inter" is loaded. You can include it in your HTML file by adding the following line in the
-<head> section before the <link rel="stylesheet" href="styles.css">:
+Make sure the font "Inter" is loaded. You can include it in your HTML file by adding the following line in the Head Tag
+            <link rel="stylesheet" href="styles.css">
