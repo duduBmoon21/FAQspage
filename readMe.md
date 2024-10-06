@@ -4,8 +4,8 @@
     Create a new folder on your computer for this project.
     Inside the folder, create two files:
 
-        index.html: Copy and paste the HTML code into this file.
-        styles.css: Copy and paste the CSS code into this file.
+    index.html: Copy and paste the HTML code into this file.
+    styles.css: Copy and paste the CSS code into this file.
 
 2. Open in a Browser:
 
